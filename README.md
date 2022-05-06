@@ -17,7 +17,7 @@ Step 3: Download the file; "Vishal_sood_app_final" which is the code for shiny a
 
 Step 4: Download the R project; "Vishal_Sood_finalproject"
 
-Step 5: Open the R project (Vishal_Sood_finalproject) first and the R shiny app code (Vishal_sood_app_final) after opening the project.
+Step 5: Open the R project (Vishal_Sood_finalproject) first and our R shiny app (Vishal_sood_app_final) after opening the project.
 
 Step 6: Hit run app
 
