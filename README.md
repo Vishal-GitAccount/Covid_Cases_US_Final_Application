@@ -7,23 +7,23 @@ The bar plot was used to show the trend of daily cases and deaths
 
 **To Run the app, follow these steps:**
 
-Step 1: Download data folder containing three csv files namely, "case_daily_trends_united_states", "death_daily_trends_united_states", "united_states_covid19_cases_and_deaths_by_state"
+Step 1: Download the data folder containing all of the csv files; "case_daily_trends_united_states", "death_daily_trends_united_states", "united_states_covid19_cases_and_deaths_by_state"
 
-Step 2: Download .json file namely, "gz_2010_us_040_00_500k" which is needed for maps
+Step 2: Also download .json file; "gz_2010_us_040_00_500k" which is essential to create our maps
 
-Step 3: Download file namely, "sood_app_final" which is main code to run application
+Step 3: Download file namely, "Vishal_sood_app_final" which is the code for shiny app to run the application
 
-Step 4: Download R project namely, "Sood_finalproject"
+Step 4: Download R project namely, "Vishal_Sood_finalproject"
 
-Step 5: Open R project and the open R code in the project.
+Step 5: Open the R project and also open the R shiny app code after opening the project.
 
 Step 6: Hit run app
 
-Note: your "main folder" should contain following 4 files/folders: 1) .json (file) 2) R code (file) 3) R project (file) 4) Data (folder) your data folder will contain 3 csv files
+Note: You main folder shoud contain these following 4 files/folders: 1) .json (file) 2) R code (file) 3) R project (file) 4) Data (folder) in which your data folder will contain 3 csv files
 
-Note 2: if you are downloading this as a zip folder: after extracting you might have to save folder outside of downloaded zip folder.
+Note 2: if you are downloading this as a zip folder: after extracting you might have to save this folder outside of downloaded zip folder.
 
-text file namely, "libraries" contains all the libraries needed for this application to run.
+There's a file called "libraries" in the GitHub that contains all the libraries needed for this application to run.
 
 Following libraries will be needed to run this app:
 
