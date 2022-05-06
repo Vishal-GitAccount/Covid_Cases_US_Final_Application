@@ -23,4 +23,4 @@ library(gridExtra)
 library(scales)
 library(lubridate)
 
-## Note my computer does not support urbanmap package but that does not mean you wont be able to import this library ##
+## Note my OS system with Apple Silicon does not support urbanmap package but that does not mean you wont be able to import this library ##
