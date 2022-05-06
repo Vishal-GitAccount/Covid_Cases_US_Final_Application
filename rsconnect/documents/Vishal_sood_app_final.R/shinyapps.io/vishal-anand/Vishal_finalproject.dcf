@@ -1,0 +1,14 @@
+name: Vishal_finalproject
+title: Vishal_finalproject
+username:
+account: vishal-anand
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6218454
+bundleId: 5862226
+url: https://vishal-anand.shinyapps.io/Vishal_finalproject/
+when: 1651527792.45639
+lastSyncTime: 1651527792.45641
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: sood_app_troubleshooting.R|Vishal_sood_app_final - Copy.R
