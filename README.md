@@ -5,17 +5,19 @@ This includes a map of the US with amount of cases/deaths for each state
 
 The bar plot was used to show the trend of daily cases and deaths 
 
+The data was extracted from CDC official website. This dashboard is made along with my colleague Aarush Sood.
+
 **To Run the app, follow these steps:**
 
-Step 1: Download the data folder containing all of the csv files; "case_daily_trends_united_states", "death_daily_trends_united_states", "united_states_covid19_cases_and_deaths_by_state"
+Step 1: Download the data folder containing all of these csv files; "case_daily_trends_united_states", "death_daily_trends_united_states", "united_states_covid19_cases_and_deaths_by_state"
 
 Step 2: Also download .json file; "gz_2010_us_040_00_500k" which is essential to create our maps
 
-Step 3: Download file namely, "Vishal_sood_app_final" which is the code for shiny app to run the application
+Step 3: Download the file; "Vishal_sood_app_final" which is the code for shiny app to run the application
 
-Step 4: Download R project namely, "Vishal_Sood_finalproject"
+Step 4: Download the R project; "Vishal_Sood_finalproject"
 
-Step 5: Open the R project and also open the R shiny app code after opening the project.
+Step 5: Open the R project (Vishal_Sood_finalproject) first and the R shiny app code (Vishal_sood_app_final) after opening the project.
 
 Step 6: Hit run app
 
