@@ -21,7 +21,7 @@ Step 5: Open the R project (Vishal_Sood_finalproject) first and the R shiny app 
 
 Step 6: Hit run app
 
-Note: You main folder shoud contain these following 4 files/folders: 1) .json (file) 2) R code (file) 3) R project (file) 4) Data (folder) in which your data folder will contain 3 csv files
+Note: You main folder shoud contain these following 4 files/folders: 1) .json (file) 2) R code (file) 3) R project (file) 4) Data (folder) which contains 3 csv files
 
 Note 2: if you are downloading this as a zip folder: after extracting you might have to save this folder outside of downloaded zip folder.
 
