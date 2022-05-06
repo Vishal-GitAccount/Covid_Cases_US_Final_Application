@@ -5,7 +5,7 @@ This includes a map of the US with amount of cases/deaths for each state
 
 The bar plot was used to show the trend of daily cases and deaths 
 
-TO Run the app, follow these steps:
+**To Run the app, follow these steps:**
 
 Step 1: Download data folder containing three csv files namely, "case_daily_trends_united_states", "death_daily_trends_united_states", "united_states_covid19_cases_and_deaths_by_state"
 
@@ -51,4 +51,5 @@ gridExtra
 scales
 lubridate
 
-Deployed app Link:
+**Deployed app Link:**
+
